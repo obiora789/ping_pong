@@ -1,5 +1,4 @@
 import random
-
 from ball import Ball
 from setup import Paddle
 from turtle import Screen
